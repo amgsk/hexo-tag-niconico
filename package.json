@@ -1,0 +1,23 @@
+{
+  "name": "hexo-generate-niconico",
+  "version": "0.0.1",
+  "description": "Generate a NicoNico Seiga Illustrations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "niconico",
+    "seiga",
+    "illust"
+  ],
+  "author": "KAMIYA555",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamiya555/hexo-generate-niconico"
+  },
+  "bugs": {
+    "url": "https://github.com/kamiya555/hexo-generate-niconico/issues"
+  }
+}

@@ -8,7 +8,7 @@ Generate NicoNico SEIGA/DOUGA.
 
 ## Install
 ```
-npm install git://github.com/kywk/hexo-tag-eval.git --save
+npm install hexo-tag-niconico --save
 ```
 
 ## Usage

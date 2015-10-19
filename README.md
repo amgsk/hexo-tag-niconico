@@ -1,4 +1,4 @@
-hexo-generate-niconico
+hexo-tag-niconico
 ========================
 Generate NicoNico SEIGA/DOUGA.
 
@@ -25,7 +25,7 @@ npm install git://github.com/kywk/hexo-tag-eval.git --save
 {% douga dougaId %}
 ```
 
-Writing in the post & Run this command.  
+Writing in the post & Run this command.
 [Hexo doc](https://hexo.io/docs/commands.html)
 
 ```
@@ -43,6 +43,6 @@ npm update
 
 #### Uninstall
 ```
-npm uninstall hexo-generate-niconico
+npm uninstall hexo-tag-niconico
 ```
 

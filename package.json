@@ -1,7 +1,7 @@
 {
-  "name": "hexo-generate-niconico",
+  "name": "hexo-tag-niconico",
   "version": "0.0.1",
-  "description": "Generate a NicoNico Seiga Illustrations.",
+  "description": "Embed NicoNico Seiga or Douga in posts/pages.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,9 +15,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kamiya555/hexo-generate-niconico"
+    "url": "https://github.com/kamiya555/hexo-tag-niconico"
   },
   "bugs": {
-    "url": "https://github.com/kamiya555/hexo-generate-niconico/issues"
+    "url": "https://github.com/kamiya555/hexo-tag-niconico/issues"
   }
 }

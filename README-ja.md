@@ -1,27 +1,26 @@
 hexo-tag-niconico
 ========================
-[日本語READMEはこちら](https://github.com/kamiya555/hexo-tag-niconico/blob/master/README-ja.md)
 
-Generate NicoNico SEIGA/DOUGA.
+ニコニコ動画と静画のEmbedタグを出力します｡
 
 ![http://i.imgur.com/uSED77s.png](http://i.imgur.com/uSED77s.png)
 
 ![http://i.imgur.com/UHWmKMy.png](http://i.imgur.com/UHWmKMy.png)
 
-## Install
+## インストール
 ```
 npm install hexo-tag-niconico --save
 ```
 
-## Usage
+## 使い方
 
-**Seiga**
+**静画**
 
 ```
 {% seiga seigaId %}
 ```
 
-**Douga**
+**動画**
 
 ```
 {% douga dougaId %}
@@ -36,14 +35,15 @@ hexo generate
 
 ---
 
-## Misc
+## その他
 
-#### Update
+#### アップデート
 ```
 npm update
 ```
 
-#### Uninstall
+#### アンインストール
 ```
 npm uninstall hexo-tag-niconico
 ```
+

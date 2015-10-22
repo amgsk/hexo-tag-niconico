@@ -1,7 +1,7 @@
 {
   "name": "hexo-tag-niconico",
-  "version": "0.0.2",
-  "description": "Embed NicoNico Seiga or Douga in posts/pages.",
+  "version": "0.0.3",
+  "description": "Embed NicoNico douga or seiga or nama in your Hexo posts/pages.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,10 @@
   "keywords": [
     "niconico",
     "seiga",
-    "illust"
+    "illust",
+    "douga",
+    "movie",
+    "live broadcast"
   ],
   "author": "KAMIYA555",
   "license": "MIT",

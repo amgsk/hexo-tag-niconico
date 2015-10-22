@@ -22,16 +22,16 @@ hexo-tag-niconico
 
 ## インストール
 ```
-npm install hexo-tag-niconico --save
+npm install hexo-tag-niconico@latest --save
 ```
 
 ## 使い方
 
-1. 記事のmarkdownファイルを作成します   
+1. 記事のmarkdownファイルを作成します
   `hexo new title`
-1. 作成した記事を編集します  
+1. 作成した記事を編集します
   タグの書き方を参照してください｡
-1. 記事を生成します  
+1. 記事を生成します
   `hexo generate`
 1. ブラウザで確認します
   `0.0.0.0:4000` or `localhost:4000`

@@ -23,7 +23,7 @@ hexo-tag-niconico
 
 ## Install
 ```
-npm install hexo-tag-niconico --save
+npm install hexo-tag-niconico@latest --save
 ```
 
 ## Usage
@@ -47,7 +47,7 @@ Please see this link for more information. [Hexo Document](https://hexo.io/docs/
 {% douga dougaId [thumb] %}
 ```
 
-Douga ID is a number starting with sm.  e.g):`sm27258895`  
+Douga ID is a number starting with sm.  e.g):`sm27258895`
 By adding the `thumb`, the style changes.
 
 

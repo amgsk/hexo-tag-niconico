@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-niconico",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Embed NicoNico douga or seiga or nama in your Hexo posts/pages.",
   "main": "index.js",
   "scripts": {

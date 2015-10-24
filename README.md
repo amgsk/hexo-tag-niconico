@@ -71,7 +71,7 @@ Nama ID is a number starting with sm. e.g):`lv237041631`
 ## Known issues
 
 If the your Hexo Blog URL begins with **https://** not this feature.  
-confirmed in chrome and firefox.  
+This is a limitation of the security. confirmed in chrome and firefox.  
 ![](http://i.imgur.com/UxDuBB2.png?1)
 
 Can be displayed by changing the URL to **http://** in this case to resolve.

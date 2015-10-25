@@ -70,7 +70,7 @@ npm install hexo-tag-niconico@latest --save
 ## 既知の問題
 
 HexoのブログURLへ **https://** から始まるURLで接続した場合､Embedコンテンツを表示できない場合があります｡
-ChromeとFireFoxで確認を行いました｡
+これはセキュリティ上の制限です。ChromeとFireFoxで確認を行いました｡
 ![](http://i.imgur.com/UxDuBB2.png?1)
 
 この場合は､ **http://** から始まるURLへ接続することで閲覧可能になります｡

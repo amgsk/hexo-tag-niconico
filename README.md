@@ -56,7 +56,7 @@ By adding the `thumb`, the style changes.
 ```
 {% seiga seigaId %}
 ```
-Seiga ID is a number starting with sm. e.g):`im5282760`
+Seiga ID is a number starting with im. e.g):`im5282760`
 
 
 **Nama(Live broadcast)**
@@ -64,7 +64,7 @@ Seiga ID is a number starting with sm. e.g):`im5282760`
 ```
 {% nama namaId %}
 ```
-Nama ID is a number starting with sm. e.g):`lv237041631`
+Nama ID is a number starting with lv. e.g):`lv237041631`
 
 ---
 
